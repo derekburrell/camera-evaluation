@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: F-Number/Entrance-Pupil Measurement Simulator
+message: >-
+  If you use these scripts, please cite them using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Derek
+    family-names: Burrell
+    email: derekburrell@optics.arizona.edu
+    affiliation: >-
+      The University of Arizona Wyant College of Optical
+      Sciences
+    orcid: 'https://orcid.org/0000-0002-5647-4999'
+repository-code: 'https://github.com/derekburrell/camera-evaluation'
+abstract: >-
+  This repository contains wave-optics simulation codes to
+  measure both F-number and entrance-pupil diameter of a
+  black-box imaging system.
+keywords:
+  - camera characterization
+  - F-number
+  - entrance pupil
+  - focal length
+  - pixel pitch
+  - laser speckle
+  - knife edge
+  - in situ
+license: MIT
